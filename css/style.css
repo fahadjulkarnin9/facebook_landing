@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header {
+	background-color: #3b5999;
+	min-height: 85px;
+    border-bottom: 1px solid #134499;
+}
+.logo h1{
+    color: #fff;
+    float: left;
+    width: 38%;
+    padding: 15px 150px;
+    font-family:monospace;
+    font-size: 50px;
+}
+.forms {
+	float: left;
+	color:#fff;
+    padding-top: 18px;
+    font-family: montserrat;
+    font-size: 12px;
+}
+.email{
+    float: left;
+}
+.mail_id{
+    width: 150px;
+    height: 25px;
+    margin-top: 5px;
+}
+.pass{
+    float: left;
+    margin-left: 15px;
+}
+.pass a{
+    color: #70c4e5;
+    text-decoration: none;
+}
+.pasw{
+    width: 150px;
+    height: 20px;
+    margin-top: 5px;
+}
+.btn{
+    float: left;
+    padding-top: 20px;
+    margin-left: 15px;
+}
+.login_btn{
+    background: #678de0;
+    color: #fff;
+    width: 50px;
+    height: 24px;
+    border: 1px solid #365899;
+    padding-bottom: 3px;
+}
+.content{
+    background: #fff;
+    min-height: 650px;
+}
+.c_left{
+    width: 40%;
+    float: left;
+    color: #365899;
+    font-family: montserrat;
+    font-size: 15px;
+    padding-left: 150px;
+    padding-top: 45px;
+}
+.c_right{
+    float: left;
+    padding-left: 100px;
+    padding-top: 30px;
+    font-family: montserrat;
+    color: #333333;
+}
+.c_right p{
+    margin-top: 10px;
+    font-size: 15px;
+    color: #333333;
+}
+.first_name input{
+    height: 20px;
+    width: 175px;
+    border-radius: 5px;
+    border: 1px solid #494949;
+    color: #605e5e;
+    font-size: 18px;
+    padding: 10px 10px 10px;
+    margin-top: 25px;
+}
+.mobile input{
+    height: 20px;
+    width: 376px;
+    border-radius: 5px;
+    border: 1px solid ##494949;
+    color: #605e5e;
+    font-size: 18px;
+    padding: 10px 10px 10px;
+    margin-top: 15px;
+}
+.pasw input{
+    height: 20px;
+    width: 376px;
+    border-radius: 5px;
+    border: 1px solid #494949;
+    color: #605e5e;
+    font-size: 18px;
+    padding: 10px 10px 10px;
+    margin-top: 15px;
+}
+.birth_date{
+    margin-top: 20px;
+    font-size: 15px;
+    color: #333333;
+    width: 220px;
+    float: left;
+}
+.birth_date select{
+    height: 35px;
+ 	width: 70px;
+    margin-top: 5px;
+}
+.rules{
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.rules a{
+    color: #368CD4;
+    text-decoration: none;
+    font-size: 12px;
+}
+.genders{
+    margin-top: 15px;
+    font-size: 20px
+}
+
+.para p{
+    font-size: 12px;
+    color: #383737;
+    width: 390px;
+    margin-top: 15px;
+}
+.para a{
+    text-decoration: none;
+    color: #368CD4;
+}
+.sbmit {
+	margin-top: 20px;
+}
+.sbmit input {
+	height: 55px;
+	width: 220px;
+	font-size: 25px;
+	padding-bottom: 5px;
+	background: #72B25E;
+	border: 1px solid #3B6E22;
+	border-radius: 5px;
+	color: #ffffff;
+}
+.crtpg {
+	margin-top: 35px;
+	font-size: 15px;
+}
+.crtpg a{
+    text-decoration: none;
+    color: #368CD4;
+}
+.footer {
+	height: 85px;
+	background: #233968;
+	border-top: 1px solid #153884;
+}
+
+
